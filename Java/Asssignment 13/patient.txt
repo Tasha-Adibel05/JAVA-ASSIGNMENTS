@@ -1,0 +1,4 @@
+Patient ID: P101
+Name: John
+Age: 35
+Diagnosis: Fever
